@@ -7,7 +7,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 ## Progress
 - [x] Day 1: **[Complex Numbers & Linear Algebra Basics](day1-complex-numbers-linear-algebra.md)**
 - [x] Day 2: **[Probability Theory & Statistics](day2-probability-theory-statistics.md)**
-- [ ] Day 3: 
+- [x] Day 3: **[Physics: Quantum vs. Classical Mechanics](day3-quantum-vs-classical-mechanics.md)**
 - [ ] Day 4: 
 - [ ] Day 5: 
 - [ ] Day 6: 
