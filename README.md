@@ -12,7 +12,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 5: **[Linear Algebra for Quantum Computing](day5-linear-algebra-quantum-computing.md)** 
 - [x] Day 6: **[Dirac Notation & Hilbert Spaces](day6-dirac-notation-hilbert-spaces.md)** 
 - [x] Day 7: **[Quantum Mechanics Basics](day7-quantum-mechanics-basics.md)** 
-- [ ] Day 8: 
+- [x] Day 8: **[Qubits & Bloch Sphere Representation](day8-qubits-bloch-sphere.md)** 
 - [ ] Day 9: 
 - [ ] Day 10: 
 - [ ] Day 11: 
