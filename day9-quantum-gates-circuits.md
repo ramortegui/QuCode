@@ -36,6 +36,6 @@ Controlt not.
 
 Need to comply with:
 1. unitary
-4. Harmitian
+4. Harmitian (not always R gate ;)
 3. Opeartion with the transpose congujate should give the identity matrix.
 
