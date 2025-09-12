@@ -14,7 +14,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 7: **[Quantum Mechanics Basics](day7-quantum-mechanics-basics.md)** 
 - [x] Day 8: **[Qubits & Bloch Sphere Representation](day8-qubits-bloch-sphere.md)** 
 - [x] Day 9: **[Quantum Gates & Circuits](day9-quantum-gates-circuits.md)** 
-- [ ] Day 10: 
+- [x] Day 10: **[Quantum Superposition & Interference](day10-quantum-superposition-interference.md)** 
 - [ ] Day 11: 
 - [ ] Day 12: 
 - [ ] Day 13: 
