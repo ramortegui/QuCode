@@ -30,12 +30,12 @@ h(|1>) -> 1/sqrt(2) (|0> - |1>)
 Z
 
 ## CNOT
-Controlt not.
+Control not.
 
 ## Unitary transformations
 
 Need to comply with:
 1. unitary
-4. Harmitian (not always R gate ;)
-3. Opeartion with the transpose congujate should give the identity matrix.
+4. Hermitian (not always R gate ;)
+3. Operation with the transpose conjugate should give the identity matrix.
 

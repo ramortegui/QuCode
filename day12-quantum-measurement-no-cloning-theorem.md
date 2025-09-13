@@ -20,7 +20,7 @@ Hidden variables:
 Many Worlds interpretation
 - There is an infinite number of universes, and there is an option valid for each one of the universes.
 
-Continous Spontaneus Localization
+Continuous Spontaneous Localization
 - The interaction localizes the quantum state.
 
 ## Projective measurement
