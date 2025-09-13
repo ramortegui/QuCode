@@ -17,7 +17,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 10: **[Quantum Superposition & Interference](day10-quantum-superposition-interference.md)** 
 - [x] Day 11: **[Bell States, EPR Paradox, Non-locality](day11-bell-states-epr-paradox-non-locality.md)** 
 - [x] Day 12: **[Quantum Measurement & No-Cloning Theorem](day12-quantum-measurement-no-cloning-theorem.md)** 
-- [ ] Day 13: 
+- [x] Day 13: **[Quantum Computing Models](day13-quantum-computing-models.md)** 
 - [ ] Day 14: 
 - [ ] Day 15: 
 - [ ] Day 16: 
