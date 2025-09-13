@@ -10,7 +10,7 @@ Definitions:
 
 
 
-Coppenhagen interpretation:
+Copenhagen interpretation:
 - Wave function describes a probability of finding a system in a given states.  When there is a measurements, the wave function collapses.
 
 
@@ -20,11 +20,11 @@ Hidden variables:
 Many Worlds interpretation
 - There is an infinite number of universes, and there is an option valid for each one of the universes.
 
-Continous Spontaneus Localisation
+Continous Spontaneus Localization
 - The interaction localizes the quantum state.
 
 ## Projective measurement
-After measurement or a multiple qubit system, the new states should be normalized.  It means that it should have the sum of the squared root of the amplituds equal to one.
+After measurement or a multiple qubit system, the new states should be normalized.  It means that it should have the sum of the squared root of the amplitudes equal to one.
 
 - Eigen Value:
 It's a magic state that states the same after applying an operator.
