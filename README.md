@@ -15,7 +15,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 8: **[Qubits & Bloch Sphere Representation](day8-qubits-bloch-sphere.md)** 
 - [x] Day 9: **[Quantum Gates & Circuits](day9-quantum-gates-circuits.md)** 
 - [x] Day 10: **[Quantum Superposition & Interference](day10-quantum-superposition-interference.md)** 
-- [ ] Day 11: 
+- [x] Day 11: **[Bell States, EPR Paradox, Non-locality](day11-bell-states-epr-paradox-non-locality.md)** 
 - [ ] Day 12: 
 - [ ] Day 13: 
 - [ ] Day 14: 
