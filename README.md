@@ -16,7 +16,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 9: **[Quantum Gates & Circuits](day9-quantum-gates-circuits.md)** 
 - [x] Day 10: **[Quantum Superposition & Interference](day10-quantum-superposition-interference.md)** 
 - [x] Day 11: **[Bell States, EPR Paradox, Non-locality](day11-bell-states-epr-paradox-non-locality.md)** 
-- [ ] Day 12: 
+- [x] Day 12: **[Quantum Measurement & No-Cloning Theorem](day12-quantum-measurement-no-cloning-theorem.md)** 
 - [ ] Day 13: 
 - [ ] Day 14: 
 - [ ] Day 15: 
