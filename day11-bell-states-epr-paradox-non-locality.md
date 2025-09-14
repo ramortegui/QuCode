@@ -9,5 +9,5 @@ The EPR paradox, suggested by Einstein, Podolsky, and Rosen, points out how quan
 
 Particles separated a far distance, and there is no way to communicate faster than speed of light.
 
-Two particles entangled, no mather how far away are, when we measure one, the other one will have the oposite measurement.
+Two particles entangled, no mater how far away are, when we measure one, the other one will have the oposite measurement.
 
