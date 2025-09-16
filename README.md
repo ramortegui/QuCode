@@ -18,8 +18,8 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 11: **[Bell States, EPR Paradox, Non-locality](day11-bell-states-epr-paradox-non-locality.md)** 
 - [x] Day 12: **[Quantum Measurement & No-Cloning Theorem](day12-quantum-measurement-no-cloning-theorem.md)** 
 - [x] Day 13: **[Quantum Computing Models](day13-quantum-computing-models.md)** 
-- [ ] Day 14: 
-- [ ] Day 15: 
+- [x] Day 14: **[Quantum Programming Basics](day14-quantum-programming-basics.md)** 
+- [x] Day 15: **[Quantum Fourier Transform & Applications](day15-quantum-fourier-transform-applications.md)** 
 - [ ] Day 16: 
 - [ ] Day 17: 
 - [ ] Day 18: 
