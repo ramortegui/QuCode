@@ -11,7 +11,7 @@ Date: September 16 2025
 
 ### D-Wave's quantum Annealing system
 
-NIST - Quantum-safe encryption algorithms
+## NIST - Quantum-safe encryption algorithms
 
 - ML-KEM
 - ML-DSA
