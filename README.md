@@ -20,7 +20,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 13: **[Quantum Computing Models](day13-quantum-computing-models.md)** 
 - [x] Day 14: **[Quantum Programming Basics](day14-quantum-programming-basics.md)** 
 - [x] Day 15: **[Quantum Fourier Transform & Applications](day15-quantum-fourier-transform-applications.md)** 
-- [ ] Day 16: 
+- [x] Day 16: **[Shor's Algorithm & Quantum Cryptography](day16-shors-algorithm-quantum-cryptography.md)** 
 - [ ] Day 17: 
 - [ ] Day 18: 
 - [ ] Day 19: 
