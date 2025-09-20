@@ -23,7 +23,7 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 16: **[Shor's Algorithm & Quantum Cryptography](day16-shors-algorithm-quantum-cryptography.md)** 
 - [x] Day 17: **[Grover's Algorithm & Search Problems](day17-grovers-algorithm-search-problems.md)**
 - [x] Day 18: **[Variational Quantum Algorithms](day18-variational-quantum-algorithms.md)**
-- [ ] Day 19: 
+- [x] Day 19: **[Quantum Machine Learning Basics](day19-quantum-machine-learning-basics.md)**
 - [ ] Day 20: 
 - [ ] Day 21: 
 
