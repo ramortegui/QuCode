@@ -25,7 +25,6 @@ This 21-day challenge covers the fundamentals of quantum computing, from mathema
 - [x] Day 18: **[Variational Quantum Algorithms](day18-variational-quantum-algorithms.md)**
 - [x] Day 19: **[Quantum Machine Learning Basics](day19-quantum-machine-learning-basics.md)**
 - [x] Day 20: **[Noise, Error Correction & NISQ Era Computing](day20-noise-error-correction-nisq-era-computing.md)**
-- [ ] Day 20: 
 - [ ] Day 21: 
 
 
