@@ -20,3 +20,7 @@ Quantum Supremacy
 TED talk about Quantum.
 
 Circ, the quantum computing tool to interact with quantum computing at Google.
+
+Naven't Law:
+
+The power of quantum computers will grow at a double exponential rate.
